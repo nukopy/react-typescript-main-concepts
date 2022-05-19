@@ -2,12 +2,12 @@
 
 React.js 公式チュートリアルの続きである [Main Concepts](https://ja.reactjs.org/docs/hello-world.html) を TypeScript でやるリポジトリ。
 
-[チュートリアルで使用したリポジトリはこっち](https://github.com/nukopy/react-typescript-tutorial)。
-
 - React 公式ドキュメント
   - [React - チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
   - [React - Main Concepts](https://ja.reactjs.org/docs/hello-world.html)
   - [React - 静的型チェック - TypeScript](https://twitter.com/tichise/status/1526598057311186945?s=20&t=9-ZtNNfBGkFQzg1rXkipvQ)
+
+[チュートリアルで使用したリポジトリはこっち](https://github.com/nukopy/react-typescript-tutorial)。
 
 ## 進捗リスト
 
